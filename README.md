@@ -1,4 +1,3 @@
-```markdown
 # FinanceSummarizer AI  
 
 ## Overview  
